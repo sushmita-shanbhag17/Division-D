@@ -184,9 +184,9 @@ streamlit run app.py
 ## Team Members
 
 * Spoorthi Hiremath
-* [Add Team Member 2]
-* [Add Team Member 3]
-* [Add Team Member 4]
+* Supritkumar RP
+* Manish
+* Prasad
 
 ---
 
